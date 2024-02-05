@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I can spend hours developing full-stack applications. I love creating the logical processes in the backend and watch them populate a front end webpage. My go-to languages are JavaScript and Python.
+I can spend hours developing full-stack applications. My go-to languages are JavaScript and Python.
 
 When I'm not coding, I'm practicing, recording, or gigging with one of my four bands. I'm a guitar player who also sings and plays bass, drums, organ, and piano.
