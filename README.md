@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've been programming since 2017 and really enjoy web development and process automation. My go-to languages are JavaScript and Python. When I'm not coding, I'm practicing, recording, or gigging with one of my four bands and playing guitar (bass, drums, piano, or organ) and singing. 
+I can spend hours developing full-stack applications. I love creating the logical processes in the backend and watch them populate a front end webpage. My go-to languages are JavaScript and Python. When I'm not coding, I'm practicing, recording, or gigging with one of my four bands and playing guitar (bass, drums, piano, or organ) and singing. 
